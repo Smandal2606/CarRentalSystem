@@ -1,0 +1,1 @@
+Developed a console-based Car Rental Management System using Java applying Object-Oriented Programming principles such as encapsulation, abstraction, and modular design.Implemented core functionalities including car listing, customer registration, car booking, rental duration calculation, and return processing.
